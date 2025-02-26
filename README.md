@@ -1,3 +1,3 @@
 # TruthLens-Fake-News-Detector
 
-Uses logistic regression
+Uses logistic regression machine learning 

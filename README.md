@@ -4,7 +4,7 @@ Fake news spreads faster than ever, and I wanted to see if machine learning coul
 
 🔹 Dataset: 25,116 news articles (a mix of real and fake)
 
-🔹 Preprocessing: Applied stemming and tokenization to clean and structure the text data
+🔹 Preprocessing: Applied stemming and tokenization to clean and structure the text data.
 
 🔹 ML Models: Tested multiple models like Decision Trees, Random Forest, and SVM, but Logistics Regression outperformed all of them!
 

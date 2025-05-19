@@ -1,4 +1,5 @@
-# TruthLens-Fake-News-Detector
+# TruthLens
+# Fake-News-Detector
 
 Fake news spreads faster than ever, and I wanted to see if machine learning could help tackle this issue. So, I built TruthLens - A Fake News Detector Prototype, and the results were quite promising!
 
